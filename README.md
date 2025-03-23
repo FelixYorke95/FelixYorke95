@@ -32,14 +32,10 @@ Here are some of the projects I'm proud of:
 ## 🌱 How to Connect
 I'm always open to collaborating on interesting projects, discussing ideas, or just chatting about data science and AI. Please feel free to reach out!
 
-- **LinkedIn**: 
+- **LinkedIn**: www.linkedin.com/in/felix-yorke-1995arch
 - **Email**: felixatoyorke@aol.com
 - **Portfolio**: [Your Portfolio Website](https://yourportfolio.com)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ## ⭐ Let's Collaborate!
 If you find any of my projects interesting or have ideas for collaboration, don't hesitate to reach out. Let's build something amazing together! 🚀
